@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "550529110131",
+    "firebase_url": "https://weatherforecastdemo-add2c.firebaseio.com",
+    "project_id": "weatherforecastdemo-add2c",
+    "storage_bucket": "weatherforecastdemo-add2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550529110131:android:eb812aa50a6e1937",
+        "android_client_info": {
+          "package_name": "com.deepmodi.weatherforecastdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550529110131-qplkhf8u0fitpd6k5lt119kbr6tolplk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepmodi.weatherforecastdemo",
+            "certificate_hash": "13336103e544bd31e3864992c361e4a486d3148d"
+          }
+        },
+        {
+          "client_id": "550529110131-ten6ebr6tjcg0ks1r1djd4i6kki24ah9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLCbVGc7T1WTKl57E2USBc-aJDaxcm9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550529110131-ten6ebr6tjcg0ks1r1djd4i6kki24ah9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550529110131:android:cabd5ced20627a88",
+        "android_client_info": {
+          "package_name": "com.deepmodi.weatherserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550529110131-l7n21r6asq8o9ip5n5pc7q1dlpa256ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepmodi.weatherserver",
+            "certificate_hash": "13336103e544bd31e3864992c361e4a486d3148d"
+          }
+        },
+        {
+          "client_id": "550529110131-ten6ebr6tjcg0ks1r1djd4i6kki24ah9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLCbVGc7T1WTKl57E2USBc-aJDaxcm9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550529110131-ten6ebr6tjcg0ks1r1djd4i6kki24ah9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550529110131:android:3a23cde69499b442",
+        "android_client_info": {
+          "package_name": "com.theweatherforecast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550529110131-u5uqkeafc8hmcltr0e58o2mfu5ikm76r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theweatherforecast",
+            "certificate_hash": "13336103e544bd31e3864992c361e4a486d3148d"
+          }
+        },
+        {
+          "client_id": "550529110131-ten6ebr6tjcg0ks1r1djd4i6kki24ah9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLCbVGc7T1WTKl57E2USBc-aJDaxcm9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550529110131-ten6ebr6tjcg0ks1r1djd4i6kki24ah9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

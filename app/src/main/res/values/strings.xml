@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">The Weather Forecast</string>
+    <string name="city1">Ahmedabad</string>
+    <string name="title_activity_home">The Weather Forecast</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_splash_screen">The Weather Forecast</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="reference_data">\t\t\t\t\t****** External Library ******\n\n1.https://github.com/hdodenhof/CircleImageView \n2.https://square.github.io/picasso/ \n3.https://Firebase.google.com \n4.https://developer.android.com/ \n5.https://material.io/ \n6.https://uigradients.com/ \n7.https://gradle.org/</string>
+</resources>
