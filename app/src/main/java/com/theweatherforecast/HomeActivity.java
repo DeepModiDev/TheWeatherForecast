@@ -53,6 +53,24 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
         setSupportActionBar(toolbar);
         getSupportActionBar().setElevation(0);
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         progressBar = findViewById(R.id.progressBar);
 
         swipeRefreshLayoutHome = findViewById(R.id.swipe_referesh_home);
